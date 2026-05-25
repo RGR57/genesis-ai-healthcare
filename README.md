@@ -115,7 +115,6 @@ within a unified healthcare-oriented reasoning architecture.
 | Optimization | Genetic Algorithms (DEAP) |
 | NLP | NLTK, Conversational Parsing |
 | Backend | Python, FastAPI |
-| Deployment | Streamlit, Docker |
 | Data | Pandas, NumPy, Matplotlib |
 
 ---
